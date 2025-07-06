@@ -1,3 +1,4 @@
+// Check MPC Server Claude, DeepSeek or ChatGPT to test more 
 import React, { useState, useEffect } from 'react';
 import { 
   Wallet, 
