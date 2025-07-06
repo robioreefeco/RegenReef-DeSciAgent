@@ -1,3 +1,4 @@
+// Privy Onboarding
 import React from 'react';
 import { PrivyProvider as BasePrivyProvider } from '@privy-io/react-auth';
 
